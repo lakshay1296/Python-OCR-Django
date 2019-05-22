@@ -1,4 +1,4 @@
-# OCR_Django_App_Beta
+# Python-OCR-Django
 
 It's a beta app, there are many elements on which work is still going on. However, all the main functionality has been implemented.
 
